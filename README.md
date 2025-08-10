@@ -14,7 +14,7 @@
 - ** Responsive Architecture**: Cross-platform compatibility with mobile optimization
 - ** Performance Optimized**: 60fps real-time processing with WebGL acceleration
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 ### **Frontend Framework**
 - **React 18** - Modern component architecture with hooks
