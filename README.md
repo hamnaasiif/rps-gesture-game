@@ -1,6 +1,6 @@
 # 🎮 Rock Paper Scissors AI - Real-Time Gesture Recognition Game
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]((https://hamnaasiif.github.io/rps-gesture-game))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://hamnaasiif.github.io/rps-gesture-game)
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react)](https://reactjs.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow.js-Latest-FF6F00?logo=tensorflow)](https://www.tensorflow.org/js)
 
