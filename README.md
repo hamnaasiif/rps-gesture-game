@@ -6,15 +6,15 @@
 
 > **An advanced real-time computer vision game that recognizes hand gestures using MediaPipe and TensorFlow.js, featuring a retro 8-bit arcade aesthetic and intelligent AI opponent.**
 
-## 🌟 Project Highlights
+##  Project Highlights
 
-- **🤖 Real-Time Computer Vision**: Advanced hand gesture recognition using MediaPipe
-- **🧠 AI-Powered Gameplay**: Intelligent opponent with randomized decision making
-- **🎨 Retro 8-bit Design**: Pixel-perfect arcade aesthetic with custom animations
-- **📱 Responsive Architecture**: Cross-platform compatibility with mobile optimization
-- **⚡ Performance Optimized**: 60fps real-time processing with WebGL acceleration
+- ** Real-Time Computer Vision**: Advanced hand gesture recognition using MediaPipe
+- ** AI-Powered Gameplay**: Intelligent opponent with randomized decision making
+- ** Retro 8-bit Design**: Pixel-perfect arcade aesthetic with custom animations
+- ** Responsive Architecture**: Cross-platform compatibility with mobile optimization
+- ** Performance Optimized**: 60fps real-time processing with WebGL acceleration
 
-## 🛠️ Technical Stack
+## 🛠 Technical Stack
 
 ### **Frontend Framework**
 - **React 18** - Modern component architecture with hooks
@@ -64,34 +64,34 @@ rock-paper-scissors-ai/
 └── README.md                       # Project documentation
 ```
 
-## ✨ Key Features
+##  Key Features
 
-### 🎯 **Advanced Computer Vision**
+###  **Advanced Computer Vision**
 - Real-time hand landmark detection (21 key points)
 - Custom gesture classification algorithm
 - Confidence scoring system
 - Multi-finger state analysis
 - Robust gesture recognition in various lighting conditions
 
-### 🤖 **Intelligent Gameplay**
+###  **Intelligent Gameplay**
 - AI opponent with strategic decision making
 - Real-time score tracking and statistics
 - Win rate calculation and performance metrics
 - Timeout handling for missed gestures
 
-### 🎨 **Premium User Experience**
+###  **Premium User Experience**
 - Retro 8-bit arcade aesthetic
 - Smooth 60fps animations
 - Responsive design for all devices
 - Intuitive gesture feedback system
 
-### 🔧 **Technical Excellence**
+###  **Technical Excellence**
 - Modular component architecture
 - Custom hooks for state management
 - Error boundary implementation
 - Cross-browser compatibility
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -112,7 +112,7 @@ rock-paper-scissors-ai/
                                                └─────────────────┘
 ```
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js 18+ 
@@ -136,7 +136,7 @@ npm start
 npm run build
 ```
 
-## 💻 Usage
+##  Usage
 
 ### Basic Gameplay
 1. **Camera Activation**: Click "ACTIVATE CAMERA" to enable webcam
@@ -150,7 +150,7 @@ npm run build
 - **Performance Stats**: Track win rate and game statistics
 - **Fallback Controls**: Manual gesture selection for accessibility
 
-## 🧠 Computer Vision Algorithm
+##  Computer Vision Algorithm
 
 ### Hand Landmark Detection
 ```javascript
@@ -177,7 +177,7 @@ const classifyGesture = (landmarks) => {
   return { gesture: null, confidence: 0 };
 };
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Detection Latency**: < 50ms average response time
 - **Accuracy Rate**: 95%+ gesture recognition accuracy
@@ -185,7 +185,7 @@ const classifyGesture = (landmarks) => {
 - **Memory Usage**: Optimized for < 100MB RAM usage
 - **Browser Support**: Chrome, Firefox, Safari, Edge
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Phase 1: Advanced AI
 - [ ] Machine learning model training for improved accuracy
@@ -198,27 +198,27 @@ const classifyGesture = (landmarks) => {
 - [ ] Custom gesture creation
 - [ ] Mobile app development (React Native)
 
-## 📈 Technical Achievements
+##  Technical Achievements
 
 ### **Computer Vision Excellence**
-- ✅ Real-time hand tracking with 21-point landmark detection
-- ✅ Custom gesture classification algorithm with 95%+ accuracy
-- ✅ Robust performance across different lighting conditions
-- ✅ GPU-accelerated processing with WebGL backend
+-  Real-time hand tracking with 21-point landmark detection
+-  Custom gesture classification algorithm with 95%+ accuracy
+-  Robust performance across different lighting conditions
+-  GPU-accelerated processing with WebGL backend
 
 ### **Software Engineering**
-- ✅ Modular React architecture with custom hooks
-- ✅ Performance optimization with React.memo and useMemo
-- ✅ Responsive design with mobile-first approach
-- ✅ Cross-browser compatibility
+-  Modular React architecture with custom hooks
+-  Performance optimization with React.memo and useMemo
+-  Responsive design with mobile-first approach
+-  Cross-browser compatibility
 
 ### **User Experience**
-- ✅ Pixel-perfect 8-bit design system
-- ✅ Smooth 60fps animations and transitions
-- ✅ Accessibility compliance
-- ✅ Intuitive gesture feedback system
+-  Pixel-perfect 8-bit design system
+-  Smooth 60fps animations and transitions
+-  Accessibility compliance
+-  Intuitive gesture feedback system
 
-## 🏆 Skills Demonstrated
+##  Skills Demonstrated
 
 ### **Computer Vision & AI**
 - MediaPipe integration and optimization
@@ -235,6 +235,6 @@ const classifyGesture = (landmarks) => {
 - State management strategies
 
 
-⭐ **If you found this project interesting, please give it a star!** ⭐
+ **If you found this project interesting, please give it a star!** ⭐
 
 🎮 Ready to challenge the AI? Play now and test your skills!
