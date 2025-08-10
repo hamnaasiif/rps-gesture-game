@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rps-gesture-game/static/css/main.a9bc8ac2.css",
+    "main.js": "/rps-gesture-game/static/js/main.fb7de189.js",
+    "index.html": "/rps-gesture-game/index.html",
+    "main.a9bc8ac2.css.map": "/rps-gesture-game/static/css/main.a9bc8ac2.css.map",
+    "main.fb7de189.js.map": "/rps-gesture-game/static/js/main.fb7de189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bc8ac2.css",
+    "static/js/main.fb7de189.js"
+  ]
+}
